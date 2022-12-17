@@ -15,6 +15,10 @@
 ``` python
 def hello():
     print(hello world)
+def plus():
+    a=1
+    b=2
+    print(a+b)
 ```
 
 ---
